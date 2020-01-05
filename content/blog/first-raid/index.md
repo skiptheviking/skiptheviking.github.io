@@ -22,6 +22,6 @@ they no longer have nuts and bolts technical skills.  That is not me.
 
 I write code. Lots of code. And I'm constantly trying to become a better programmer.  Check
 out my library [here](/books).  And yes, these are affiliate links, so if you buy one of these books I'll get paid.
-Good, that means you can help me stop being a [code prostitute](/codehooker).
+Good, that means you can help me stop being a [code prostitute](/code-hooker).
 
 
