@@ -1,7 +1,27 @@
 ---
 title: The First Raid
 date: "2019-01-03T23:15:00.000Z"
-description: "The First Raid"
+description: The Journeyman's Journey
 ---
+When the emissary's came to the Viking lands and
+asked to speak to their leader, the Viking responded: "We are all leaders here".
 
-Wow are you in for a treat.  I'm a journeyman software architect 
+And this is exactly how Software Engineers need to be.  
+
+You've stumbled across Skip the Viking, a software architect journeyman
+who is on a "raid" to become a master software architect.
+
+Why architect and not just engineer?
+
+There shouldn't be much of a difference in terms of skill set, but an
+architect takes ownership of the design of a system.  And should be working 
+at a higher scale.
+
+That being said, I've seen people hide behind the title architect to mean
+they no longer have nuts and bolts technical skills.  That is not me.
+
+I write code. Lots of code. And I'm constantly trying to become a better programmer.  Check
+out my library [here]("../books").  And yes, these are affiliate links, so if you buy one of these books I'll get paid.
+Good, that means you can help me stop being a [code prostitute](../codehooker).
+
+
