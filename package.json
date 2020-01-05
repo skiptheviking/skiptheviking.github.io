@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "skip-the-viking",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Skip the Viking",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Skip Sorenson <markorskip@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -56,13 +56,5 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
-  },
-  "buildpacks": [
-    {
-      "url": "heroku/nodejs"
-    },
-    {
-      "url": "https://github.com/heroku/heroku-buildpack-static"
-    }
-  ]
+  }
 }
