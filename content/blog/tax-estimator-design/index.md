@@ -1,7 +1,7 @@
 ---
 title: Design a tax estimating app
-date: "2019-01-04T22:40:32.169Z"
-description: Building a simple react app for tax estimating
+date: "2019-01-03T22:40:32.169Z"
+description: Build a ReactJS webapp that exposes your REAL marginal rate...
 ---
 
 ## Conceptual Design

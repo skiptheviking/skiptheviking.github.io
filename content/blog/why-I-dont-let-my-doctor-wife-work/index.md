@@ -1,7 +1,7 @@
 ---
 title: Why I don't let my doctor wife work
-description: How the middle class gets screwed on taxes
-date: "2015-05-06T23:46:37.121Z"
+description: Exposing the hidden income tax bracket of 45 percent
+date: "2019-01-02T23:46:37.121Z"
 ---
 
 We all know the second income is taxed at the highest marginal rate - but how much is
