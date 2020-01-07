@@ -1,6 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
 
+//const trackingId = "UA-37301669-2"; // Replace with your Google Analytics tracking ID
+
 import { rhythm, scale } from "../utils/typography"
 
 class Layout extends React.Component {

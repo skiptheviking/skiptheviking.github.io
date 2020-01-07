@@ -1,4 +1,7 @@
 var plugins = [{
+      plugin: require('/Users/skip/viking-software/skiptheviking.github.io/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      options: {"plugins":[],"trackingId":"UA-37301669-2"},
+    },{
       plugin: require('/Users/skip/viking-software/skiptheviking.github.io/node_modules/gatsby-remark-images/gatsby-ssr'),
       options: {"plugins":[],"maxWidth":590},
     },{

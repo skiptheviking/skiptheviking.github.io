@@ -1,7 +1,7 @@
 ---
 title: Why I won't let my doctor wife work
 description: Exposing the hidden income tax bracket of 45 percent
-date: "2019-01-02T23:46:37.121Z"
+date: "2020-01-02T23:46:37.121Z"
 ---
 For those of you with a spouse working, 
 how much money are they really bringing into the family? You might think whatever the paycheck is,

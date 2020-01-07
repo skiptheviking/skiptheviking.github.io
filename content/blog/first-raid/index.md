@@ -1,6 +1,6 @@
 ---
 title: The First Raid
-date: "2019-01-01T23:15:00.000Z"
+date: "2020-01-01T23:15:00.000Z"
 description: Let's pillage!
 ---
 When the emissary's came to the Viking lands and
