@@ -65,7 +65,7 @@ all other creative professionals have some sort of royalty on their creative wor
 value.  And when we bill hourly, we are only incentivitized to waste time?!  
 
 So this blog is part of my long term goal to not be a code hooker, but rather an owner.  I want to own my source code I write, reuse it to help businesses,
-and come to a win win solution where the business does better and I do better!
+and come to a win win solution where the business does better and I do better!  If you need someone like that then [contact me!](/contact)
 
 
 

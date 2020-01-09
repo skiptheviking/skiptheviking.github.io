@@ -1,9 +1,10 @@
 ---
 title: Contact Me
+date: "2020-01-08T23:15:00.000Z"
 description: Side hustling software architect
 ---
 
-Freelancer? Consultant? Contractor? YES!
+*Freelancer? Consultant? Contractor?* YES!
 
 I've automated onboarding systems for enterprise resource planning systems.  
 
@@ -30,7 +31,7 @@ I don't charge hourly ([see code prostitution](/code-hooker)).  I charged based 
 20k per year? Would you be willing to spend 5k to get it in production? You get a deliverable for a fixed price and I get to 
 leverage my industry knowledge to build it for you as efficiently as possibly.  We all win.  This only works if your requirements
 are clear (or at least mostly clear - in software requirements ALWAYS evolve).  We can talk more about this. But send me an email and let's see
-if we can come up with a good arrangement!
+if we can come up with a arrangement
 
 
 
