@@ -1,5 +1,5 @@
 ---
-title: My Library
+title: My Top Book Recommendations
 date: "2020-01-04T23:15:00.000Z"
 description: My top book recommendations
 featuredImage: myLibrary.png
@@ -19,4 +19,3 @@ experience, so you cannot ignore his advice. I'm a big fan.
 START with this book.  This is a red pill / blue pill scenerio.  If you want to know
 how things are done right, read this book.  Or stay in the matrix and
 keep with the status quo.
-
