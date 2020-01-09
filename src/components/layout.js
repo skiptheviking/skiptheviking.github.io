@@ -32,7 +32,7 @@ class Layout extends React.Component {
                 {title}
               </Link>
             </h1>
-              <a href="/books">About</a> <a href="/books">Viking Code</a> <a href="/books">Books</a>
+              <a href="/contact">Contact me</a>
 
           </div>
       )

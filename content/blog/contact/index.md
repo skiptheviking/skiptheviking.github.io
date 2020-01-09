@@ -24,5 +24,13 @@ that needs to be solved or just some consulting on how to do something, contact 
 
 Email me at [skip@skiptheviking.com](mailto:skip)
 
-<header/>
+***How much do you charge per hour?***
+
+I don't charge hourly ([see code prostitution](/code-hooker)).  I charged based on value (my time and yours).  Is this automation going to save your company
+20k per year? Would you be willing to spend 5k to get it in production? You get a deliverable for a fixed price and I get to 
+leverage my industry knowledge to build it for you as efficiently as possibly.  We all win.  This only works if your requirements
+are clear (or at least mostly clear - in software requirements ALWAYS evolve).  We can talk more about this. But send me an email and let's see
+if we can come up with a good arrangement!
+
+
 
