@@ -5,6 +5,7 @@ description: My top book recommendations
 featuredImage: myLibrary.png
 ---
 
+![My Library](./myLibrary.jpg)
 
 [Clean Code](https://www.amazon.com/gp/product/0132350882/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0132350882&linkCode=as2&tag=skiptheviking-20&linkId=6649d19eb218bc766ae4b5cb570efe61)
  by Robert C. Martin
@@ -18,3 +19,4 @@ experience, so you cannot ignore his advice. I'm a big fan.
 START with this book.  This is a red pill / blue pill scenerio.  If you want to know
 how things are done right, read this book.  Or stay in the matrix and
 keep with the status quo.
+
