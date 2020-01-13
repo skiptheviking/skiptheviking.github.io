@@ -1,12 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: `Skip the Viking`,
-    author: `Skip`,
-    description: `A Software Architect Journeyman on a raid to become a master software architect`,
-    siteUrl: `https:/skiptheviking.github.io`,
-    social: {
-      twitter: `skiptheviking`,
-    },
+    author: `S.T.V.`,
+    description: `A Software Architect Journeyman`,
+    siteUrl: `https:/www.skiptheviking.com`,
   },
   plugins: [
     {
@@ -80,6 +77,14 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    {
+      resolve: 'gatsby-plugin-htaccess',
+      options: {
+        https: true,
+        www: true,
+        host: 'https://www.skiptheviking.com'
+      }
+    }
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
