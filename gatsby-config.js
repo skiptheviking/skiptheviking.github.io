@@ -4,6 +4,9 @@ module.exports = {
     author: `S.T.V.`,
     description: `A Software Architect Journeyman`,
     siteUrl: `https:/www.skiptheviking.com`,
+    social: {
+      twitter: 'needtosetup'
+    }
   },
   plugins: [
     {
