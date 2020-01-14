@@ -78,7 +78,7 @@ module.exports = {
       options: {
         https: true,
         www: true,
-        host: 'https://www.skiptheviking.com'
+        host: 'https://skiptheviking.com'
       }
     }
     // this (optional) plugin enables Progressive Web App + Offline functionality
