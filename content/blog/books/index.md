@@ -1,13 +1,13 @@
 ---
-title: How I Know My Shit
+title: Professional Book Recommendations
 date: "2020-01-04T23:15:00.000Z"
-description: My top book recommendations
+description: For the aspiring software connoisseur
 featuredImage: myLibrary.png
 ---
 
 ![My Library](./myLibrary.jpg)
 
-How do I know my shit?
+Professional Book Recommendations
 
 I read BOOKS. A lot. From people who know their shit. Yes, I learn a ton working and from personal experience. But books
 allow you to learn from OTHER people's experiences, often decades more experience.  It's awesome when you can find a good mentor, 
