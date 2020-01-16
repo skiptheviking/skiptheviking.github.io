@@ -1,7 +1,7 @@
 ---
-title: The First Raid
-date: "2020-01-01T23:15:00.000Z"
-description: Let's pillage!
+title: The First Conquest
+date: "2020-01-02T23:15:00.000Z"
+description: The Software Viking's Code
 ---
 When the emissary's came to the Viking lands and
 asked to speak to their leader, the Viking responded: "We are all leaders here".

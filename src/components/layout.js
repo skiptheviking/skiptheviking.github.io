@@ -1,9 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
-
-//const trackingId = "UA-37301669-2"; // Replace with your Google Analytics tracking ID
-
 import { rhythm, scale } from "../utils/typography"
+import Navbar from "./navbar";
 
 class Layout extends React.Component {
   render() {
@@ -32,7 +30,8 @@ class Layout extends React.Component {
                 {title}
               </Link>
             </h1>
-              <a href="/contact">Contact me</a>
+              <Navbar/>
+
 
           </div>
       )
@@ -58,6 +57,7 @@ class Layout extends React.Component {
       )
     }
     return (
+
       <div
         style={{
           marginLeft: `auto`,

@@ -9,12 +9,13 @@ featuredImage: myLibrary.png
 
 Professional Book Recommendations
 
-I read BOOKS. A lot. From people who know their shit. Yes, I learn a ton working and from personal experience. But books
-allow you to learn from OTHER people's experiences, often decades more experience.  It's awesome when you can find a good mentor, 
-but when you read BOOKS you can acquire yourself some of the best
-mentors in the industry for a nominal price by reading there most comprehensive thoughts.
+I read books. A lot. From people who know  what they are talking about. Yes, I learn a ton working
+and from personal experience. But books allow you to learn from other people's experiences, 
+often decades more experience.  It's awesome when you can find a good mentor, 
+and good books allow you to acquire yourself some of the best
+mentors in the industry for a nominal price by reading their most comprehensive thoughts.
 
-Below are some of my book recommendations:
+Below are some of my current book recommendations:
 
 [Clean Code](https://www.amazon.com/gp/product/0132350882/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0132350882&linkCode=as2&tag=skiptheviking-20&linkId=6649d19eb218bc766ae4b5cb570efe61)
  by Robert C. Martin
@@ -32,7 +33,7 @@ keep with the status quo.
 [The Systems Bible](https://amzn.to/37MwiFT)
 by John Gall
 
-A MUST read.  Before you build software you must understand SYSTEMS. What do I mean by systems?
+A MUST read.  Before you build software you must understand how systems work. What do I mean by systems?
 Everything is a system.  And all systems have inherent properties.  Every system wants to expand
 to fill the known universe.  Only simple systems work.  Complex systems that work only work because
 they are composed of simpler systems.  These principles and much more are found in this book
@@ -41,7 +42,7 @@ in often humorous (but true) examples.  You won't be able to put this one down.
 [Clean Architecture](https://amzn.to/2urvesI)
 by Robert C. Martin
 
-You want clean architecture? Invert your dependencies towards least change. How do I know this? This book!
+You want clean architecture? Invert your code dependencies towards least change. How do I know this? This book!
 Another hit from Uncle Bob - this is a must read if you want to design a system that is flexible and maintanable.
 
 [The Maxwell Leadership Bible](https://amzn.to/37S86SS)

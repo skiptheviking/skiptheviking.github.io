@@ -3,7 +3,7 @@ title: Viking Software
 date: "2020-01-01T23:15:00.000Z"
 description: Professional Software Services
 ---
-*Automations, apps, and integrations for businesses on a budget*
+***Automations, apps, and integrations for businesses on a budget***
 
 ###What can Viking Software do for me?
 
@@ -12,6 +12,7 @@ description: Professional Software Services
 * Automate routine or rules-based tasks
 * Consulting services for software needs
 * Systems design and architecture
+* Software engineering retainer services
 
 ###Professional Experience
 
@@ -26,10 +27,11 @@ and producing scientific output.
 
 ###Cost
 
-I don't charge hourly ([see code prostitution](/code-hooker)).  Cost is value based (my time and yours). 
-Are willing to spend 10k on an automation that will save you 20k yearly? You get your agreed upon upfront deliverable for a fixed price and I get to 
-leverage my industry knowledge to build it for you as efficiently as possibly.  We all win.  This only works if your requirements
-are clear (or at least mostly clear - in software requirements ALWAYS evolve).  
+* Payment is ***deliverable and maintenance based***.  
+* The whole of the cost is known
+before we start. 
+* If requirements evolve (as they always do) but stay within scope the price will not increase,
+that is to be expected.  
 
 ###Inquire
 
