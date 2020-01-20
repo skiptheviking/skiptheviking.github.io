@@ -9,8 +9,8 @@ const linkStyles = {
 const Navbar = () => (
    <div>
        <Link to={`/contact`} style={linkStyles}>Professional Services</Link>
-       <Link to={`/code`} style={linkStyles}>Viking Code</Link>
-       <Link to={'/apps'} style={linkStyles}>Example Apps</Link>
+       {/*<Link to={`/code`} style={linkStyles}>Viking Code</Link>*/}
+       {/*<Link to={'/apps'} style={linkStyles}>Example Apps</Link>*/}
    </div>
 );
 
