@@ -2,6 +2,7 @@
 title: The First Conquest
 date: "2020-01-02T23:15:00.000Z"
 description: The Software Viking's Code
+published: false
 ---
 When the emissary's came to the Viking lands and
 asked to speak to their leader, the Viking responded: "We are all leaders here".

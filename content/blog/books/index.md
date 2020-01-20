@@ -3,6 +3,7 @@ title: Professional Book Recommendations
 date: "2020-01-04T23:15:00.000Z"
 description: For the aspiring software connoisseur
 featuredImage: myLibrary.png
+published: true
 ---
 
 ![My Library](./myLibrary.jpg)

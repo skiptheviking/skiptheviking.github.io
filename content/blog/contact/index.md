@@ -2,6 +2,7 @@
 title: Viking Software
 date: "2020-01-01T23:15:00.000Z"
 description: Professional Software Services
+published: true
 ---
 ***Automations, apps, and integrations for businesses on a budget***
 

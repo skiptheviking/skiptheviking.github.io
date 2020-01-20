@@ -2,6 +2,7 @@
 title: High Class Code Prostitution
 date: "2020-01-04T23:15:00.000Z"
 description: How working as a software engineer is like being a prostitute
+published: false
 ---
 
 Last summer I was applying for new jobs (something I do regularly, more on that later).  As usual, people 

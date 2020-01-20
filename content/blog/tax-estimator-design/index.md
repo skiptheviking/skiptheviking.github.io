@@ -2,6 +2,7 @@
 title: Design a tax estimating app
 date: "2020-01-03T22:40:32.169Z"
 description: Build a ReactJS webapp that exposes your REAL marginal rate...
+published: false
 ---
 
 ## Conceptual Design
